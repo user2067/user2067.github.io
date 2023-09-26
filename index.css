@@ -2,13 +2,13 @@ body {
   /* Sets font, background color */
   font-family: "arial", sans-serif;
   background-color: rgb(210, 210, 210);
-  font-size: 8em;
+  font-size: 0.6em;
 }
 
 h1 {
   /* Color for heading #1 */
   color: #1c1c1cff;
-  font-size: 1em;
+  font-size: 0.1em;
   margin-bottom: 0.3em;
   text-align: center;
   text-decoration: underline;
