@@ -2,6 +2,7 @@ body {
   /* Sets font, background color */
   font-family: "arial", sans-serif;
   background-color: rgb(210, 210, 210);
+  font-size: 8em;
 }
 
 h1 {
